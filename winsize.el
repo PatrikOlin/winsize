@@ -44,4 +44,5 @@
   )
 )
 
+(provide 'winsize)
 ;;; winsize.el ends here
